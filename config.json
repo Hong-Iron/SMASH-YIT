@@ -1,0 +1,145 @@
+{
+  "code": "YIT",
+  "title": "SMASH YIT",
+  "school": "연암공대",
+  "fullName": "연암공과대학교",
+  "campusName": "연암공과대학교",
+  "tagline": "연암공대를 부셔 (시험기간 스트레스 해소)",
+  "description": "연암공과대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 연암공과대학교 3D 화면과 SMASH YIT 제목",
+  "url": "https://hong-iron.github.io/SMASH-YIT/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1341993324
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.1650285,
+        128.0981854
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — AI·DX센터 남쪽 길가에 이름 없는 대장 기록만 있고, 사진에는 그 자리에 나무만 보인다."
+    },
+    {
+      "at": [
+        35.1650316,
+        128.0980035
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 14번 바로 옆 길가 숲에 그려진 이름 없는 기록으로, 사진에 지붕이 없다."
+    },
+    {
+      "at": [
+        35.1652766,
+        128.1017119
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 경계 밖 북동쪽 공터에 그려진 기록으로, 사진에는 흙바닥만 있고 건물이 없다."
+    },
+    {
+      "at": [
+        35.1655159,
+        128.0965818
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 상남제3관 서쪽 흰 창고 바로 북쪽 숲에 그려진 기록으로, 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        35.1643015,
+        128.0973547
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 학생성공센터 서쪽 숲속에 그려진 이름 없는 기록으로, 사진에는 나무 윗부분만 보이고 지붕이 없다."
+    },
+    {
+      "at": [
+        35.1651489,
+        128.1015143
+      ],
+      "n": "학교(창고)",
+      "why": "항공사진에 없음 — 동쪽 주차장 옆 잔디밭에 그려진 1983년 창고 기록으로, 사진에는 잔디만 있다."
+    },
+    {
+      "at": [
+        35.1645016,
+        128.101306
+      ],
+      "n": "산학협동관(14동)",
+      "why": "항공사진에 없음 — 운동장 동쪽 도로와 잔디 위에 그려진 산학협동관 대장 기록으로, 그 자리에 건물이 없다."
+    }
+  ],
+  "look": {
+    "대학본관": {
+      "style": "ribbon",
+      "wall": "#cfccca",
+      "glass": "#48525e",
+      "frame": "#6b7580",
+      "roof": "#8e5a4e",
+      "hip": true
+    },
+    "연암미래관": {
+      "style": "ribbon",
+      "wall": "#dbd6d7",
+      "glass": "#2c7ea6",
+      "frame": "#e4e2e2"
+    },
+    "인화관": {
+      "style": "brick",
+      "wall": "#d08b6e",
+      "glass": "#4a5458",
+      "frame": "#8a9092",
+      "roof": "#e0b555",
+      "hip": true
+    },
+    "산학협동관": {
+      "style": "brick",
+      "wall": "#c67e66",
+      "glass": "#4f6577",
+      "frame": "#e6e6e2",
+      "roof": "#c0644a",
+      "hip": true
+    },
+    "상남제3관": {
+      "style": "brick",
+      "wall": "#d8957a",
+      "glass": "#8e9a94",
+      "frame": "#f2f2f0",
+      "roof": "#9a5c4e",
+      "hip": true
+    },
+    "기계공작실": {
+      "style": "ribbon",
+      "wall": "#acaba6",
+      "glass": "#737168",
+      "frame": "#c4c3be"
+    },
+    "상남제1관": {
+      "style": "brick",
+      "wall": "#d9967a",
+      "glass": "#8e9a94",
+      "frame": "#eff3f0",
+      "roof": "#aa6a59",
+      "hip": true
+    },
+    "상남제2관": {
+      "style": "brick",
+      "wall": "#d99a7c",
+      "glass": "#7e7d77",
+      "frame": "#f4f4f2",
+      "roof": "#c56a4c",
+      "hip": true
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
