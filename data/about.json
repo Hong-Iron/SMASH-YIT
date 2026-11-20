@@ -1,0 +1,34 @@
+{
+ "region": "경남 진주시 가호동 가좌동",
+ "nameEn": "Yonam Institute of Technology",
+ "added": "2026-11-01T02:27",
+ "rank": 219,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "GNU",
+   "campus": "경상국립대학교 가좌캠퍼스",
+   "km": 1.1
+  },
+  {
+   "code": "GNU-CHILAM",
+   "campus": "경상국립대학교 칠암캠퍼스",
+   "km": 1.6
+  },
+  {
+   "code": "CNUE",
+   "campus": "진주교육대학교",
+   "km": 3.8
+  },
+  {
+   "code": "JHC",
+   "campus": "진주보건대학교",
+   "km": 4.8
+  },
+  {
+   "code": "MASAN",
+   "campus": "마산대학교",
+   "km": 38.3
+  }
+ ]
+}
